@@ -1,0 +1,2 @@
+# PegSolitia
+OpenSiv3Dを使用して制作したPegSolitiaをテーマとしたゲームアプリです。
