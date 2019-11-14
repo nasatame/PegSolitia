@@ -33,6 +33,9 @@
 
 # Visual Studio Folders
 .vs
-
+PegSolitia/Intermediate
+PegSolitia/App/*
 
 # Game Files
+!/PegSolitia/App/Resource.rc
+!/PegSolitia/App/score.bin
