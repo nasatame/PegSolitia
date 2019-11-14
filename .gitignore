@@ -39,3 +39,4 @@ PegSolitia/App/*
 # Game Files
 !/PegSolitia/App/Resource.rc
 !/PegSolitia/App/score.bin
+!/PegSolitia/App/tutorial
