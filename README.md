@@ -9,7 +9,7 @@ releaseから最新バージョンをダウンロードしてください。
 クローンして、プルリクをください。
 
 ## Used Library
-https://github.com/Siv3D/OpenSiv3D
+OpenSiv3D (https://github.com/Siv3D/OpenSiv3D)
 
 ## Creator
 製作者 Twitter：@syumi_nasa
